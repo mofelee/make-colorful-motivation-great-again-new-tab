@@ -1,7 +1,7 @@
 {
   "name": "Make Colorful Motivation Great Again New Tab",
   "description": "Override the new tab page with Colorful Motivation",
-  "version": "0.1",
+  "version": "0.4",
   "incognito": "split",
   "chrome_url_overrides": {
     "newtab": "index.html"
