@@ -2,7 +2,7 @@ import React, {PureComponent, Component} from 'react';
 
 import ReactAnimationFrame from 'react-animation-frame';
 import InfiniteCalendar from 'react-infinite-calendar';
-import 'react-infinite-calendar/styles.css'; // Make sure to import the default stylesheet
+import 'react-infinite-calendar/styles.css';
 
 import setYear from 'date-fns/set_year'
 import differenceInYears from 'date-fns/difference_in_years';
